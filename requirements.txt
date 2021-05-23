@@ -1,4 +1,4 @@
 django~=3.2.3
 gunicorn
 django-heroku
-whitenoise~=5.2.0
+whitenoise
